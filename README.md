@@ -1,6 +1,6 @@
 # Secure Delivery Sample Workflow
 
-This repository contains a minimal web app and a GitHub Actions workflow that deploys it to Azure App Service through two gates: a pre-deploy configuration check and a manual review approval. It accompanies the Pluralsight lab "Secure an Azure Delivery Workflow with Gates, Secrets, and Policy."
+This repository contains a minimal web app and a GitHub Actions workflow that deploys it to Azure App Service through two gates: a pre-deploy configuration check and a manual review approval. It accompanies the Pluralsight lab **Secure an Azure Delivery Workflow with Gates, Secrets, and Policy**.
 
 ## What is in this repository
 
